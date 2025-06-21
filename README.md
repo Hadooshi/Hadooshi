@@ -1,5 +1,4 @@
-# 👋 Hi there, I’m Hadi Bagheri 
- (aka @Hadooshi)
+# 👋 Hi there, I’m Hadi Bagheri (aka @Hadooshi)
 
 🎓 I’m a Master's student in **Cognitive Science**  
 🐍 I’m interested in **Python** and **Deep Neural Networks**  

@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Hadi Bagheri (aka @Hadooshi)
+# 👋 Hi, I'm Hadooshi
 
 <!-- Typing SVG Header -->
 <a href="https://github.com/Hadooshi">

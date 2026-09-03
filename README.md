@@ -4,7 +4,7 @@
 
 <!-- Typing SVG Header -->
 <a href="https://github.com/Hadooshi">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Master's+Student+in+Cognitive+Science+%F0%9F%A7%A0;Deep+Neural+Networks+%26+AI+Researcher+%F0%9F%A4%96;EEG+%26+Cognitive+Signal+Processing+%F0%9F%94%AC;Python%2C+C%23+%26+Android+Developer+%E2%9A%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Master's+Student+in+Cognitive+Science+%F0%9F%A7%A0;Deep+Neural+Networks+%26+AI+Researcher+%F0%9F%A4%96;C%23+.NET+%26+Python+Developer+%E2%9A%A1;Creator+of+Iran-DNS-Toolbox+%F0%9F%9B%A1%EF%B8%8F" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -19,55 +19,52 @@
 
 ### 🧠 About Me
 
-* 🎓 **Academic:** Master's student in **Cognitive Science**, focusing on human cognition, neural computation, and computational neuroscience.
-* 🤖 **AI & Deep Learning:** Researching **Deep Neural Networks (DNNs)**, representation learning, and modern AI architectures.
-* 🔬 **Cognitive Neuroimaging:** Analyzing EEG/ERP brain dynamics using **EEGLAB**, **sLORETA**, and **MNE-Python**.
-* 💻 **Software & App Development:** Building applications with **Python**, **C# / .NET (WPF)**, and **Android (Kotlin & Java)**.
+* 🎓 **Academic:** Master's student in **Cognitive Science**, exploring the intersection of human cognition, computational modeling, and artificial intelligence.
+* 🤖 **AI & Deep Learning:** Passionate about **Deep Neural Networks (DNNs)**, representation learning, and modern AI architectures.
+* ⚡ **Software Engineering:** Building high-performance, native desktop utilities with **C# / .NET 6+ (WPF & Fluent Design)** and **Python**.
+* 📱 **Mobile & Systems:** Solid foundation in **Kotlin** and **Java** for Android development.
+* 🌐 **Network Tooling:** Committed to developing open-source bypass, privacy, and network optimization tools for restricted environments.
 
 ---
 
-### 🛠️ Skills & Technologies
+### 🛠️ Tech Stack & Toolset
 
-#### 🧠 Cognitive Neuroscience & Brain Signal Processing
-![MNE-Python](https://img.shields.io/badge/MNE--Python-EEG_Analysis-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![EEGLAB](https://img.shields.io/badge/EEGLAB-MATLAB_Toolbox-0076A8?style=for-the-badge&logo=matlab&logoColor=white)
-![sLORETA](https://img.shields.io/badge/sLORETA-Brain_Mapping-4B0082?style=for-the-badge&logo=target&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
-
-#### 🤖 AI, Machine Learning & Data Science
+#### 🧠 AI, Data Science & Research
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
-![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-#### 💻 Software & Mobile Development
+#### 💻 Languages & Desktop Frameworks
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![WPF](https://img.shields.io/badge/WPF-0078D7?style=for-the-badge&logo=windows&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-#### ⚙️ Platforms, DevOps & Systems
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+#### ⚙️ Tools, OS & Networking
+![Windows 11](https://img.shields.io/badge/Windows%2011-0078D4?style=for-the-badge&logo=windows11&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 
-#### 🎨 Creative Media & Office Productivity
-![Adobe Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-![Adobe Premiere Pro](https://img.shields.io/badge/Adobe_Premiere_Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white)
-![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white)
-![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white)
+---
+
+### 📊 GitHub Activity & Statistics
+
+<div align="center">
+
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=Hadooshi&show_icons=true&theme=tokyonight&hide_border=false&border_radius=12&count_private=true" alt="Hadooshi's GitHub Stats" />
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hadooshi&layout=compact&theme=tokyonight&hide_border=false&border_radius=12" alt="Top Languages" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Hadooshi&theme=tokyonight&hide_border=false&border_radius=12" alt="GitHub Streak" />
+
+</div>
 
 ---
 

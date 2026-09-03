@@ -23,7 +23,7 @@
 * 🤖 **AI & Deep Learning:** Researching **Deep Neural Networks (DNNs)**, representation learning, and modern AI architectures.
 * 🔬 **Cognitive Neuroimaging:** Analyzing EEG/ERP brain dynamics using **EEGLAB**, **sLORETA**, and **MNE-Python**.
 * 🌐 **Web Development:** Crafting responsive web applications using **React**, **TypeScript**, **JavaScript**, **Node.js**, and **CSS3**.
-* 💻 **Software & Mobile Development:** Building applications with **Python**, **C# / .NET (WPF)**, and **Android (Kotlin & Java)**.
+* 💻 **Software & Mobile Development:** Building applications with **Python**, **C# / .NET (WPF)**, and **Android (Kotlin)**.
 
 ---
 
@@ -59,7 +59,6 @@
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
